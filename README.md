@@ -54,6 +54,7 @@
 	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
 </p>
 <br>
+		
 ### 👉 Frontend Development
 		
 <p align="center"> 
@@ -63,7 +64,8 @@
 	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
     
 </p>
-<br>		
+<br>
+		
  ### 👉 Software & Tools
  
 <p align="center">
@@ -76,7 +78,8 @@
   &emsp;
 	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
 </p>
-<br>		
+<br>	
+		
  ### 👉 IDEs
  
 <p align="center">
@@ -88,7 +91,8 @@
 	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/-Sublime%20Text-%234B4B4Bstyle=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 		 
 </p>
-<br>		
+<br>	
+		
  ### 👉 Competitive Programming & Problem Solving
  
 <p align="center">
@@ -101,7 +105,8 @@
   &emsp;
     <a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img alt = "beecrowd" src="https://img.shields.io/badge/-Beecrowed-%236A2A86?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
-<br>		
+<br>
+		
  ### 👉 Operating Systems
  
 <p align="center">
