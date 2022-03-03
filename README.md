@@ -137,4 +137,4 @@
    <a href="https://github.com/yousuf7902"><img alt="yousuf7902's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yousuf7902&custom_title=yousuf7902's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <br>
-		<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Thanks for visiting my Github Profile. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+		<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Thanks for visiting my Github Profile. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2><br>
