@@ -20,6 +20,7 @@
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<br>
 <p align="center">
 	<a href="mailto:yousufhassan04@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp
 	<a href="https://github.com/yousuf7902"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp
@@ -52,7 +53,7 @@
   &emsp;
 	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
 </p>
-		
+<br>
 ### 👉 Frontend Development
 		
 <p align="center"> 
@@ -62,7 +63,7 @@
 	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
     
 </p>
-		
+<br>		
  ### 👉 Software & Tools
  
 <p align="center">
@@ -75,7 +76,7 @@
   &emsp;
 	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
 </p>
-		
+<br>		
  ### 👉 IDEs
  
 <p align="center">
@@ -87,7 +88,7 @@
 	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/-Sublime%20Text-%234B4B4Bstyle=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 		 
 </p>
-		
+<br>		
  ### 👉 Competitive Programming & Problem Solving
  
 <p align="center">
@@ -100,7 +101,7 @@
   &emsp;
     <a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img alt = "beecrowd" src="https://img.shields.io/badge/-Beecrowed-%236A2A86?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
-		
+<br>		
  ### 👉 Operating Systems
  
 <p align="center">
