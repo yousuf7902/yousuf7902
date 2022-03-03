@@ -39,8 +39,7 @@
 	<a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" alt="beecrowd" width='85px'"/></a>
 </p>
 
-<br>
-		
+<br>		
 ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
