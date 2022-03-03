@@ -52,7 +52,6 @@
   &emsp;
 	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
 </p>
-<br>
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
@@ -61,7 +60,6 @@
 	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
     
 </p>
-<br>
  ### 👉 Software & Tools
  
 <p align="center">
@@ -74,7 +72,6 @@
   &emsp;
 	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
 </p>
-<br>
  ### 👉 IDEs
  
 <p align="center">
@@ -86,7 +83,6 @@
 	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/-Sublime%20Text-%234B4B4Bstyle=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 		 
 </p>
-<br>
  ### 👉 Competitive Programming & Problem Solving
  
 <p align="center">
@@ -99,7 +95,6 @@
   &emsp;
     <a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img alt = "beecrowd" src="https://img.shields.io/badge/-Beecrowed-%236A2A86?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
-<br>
  ### 👉 Operating Systems
  
 <p align="center">
@@ -129,4 +124,4 @@
   <br/>
    <a href="https://github.com/yousuf7902"><img alt="yousuf7902's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yousuf7902&custom_title=yousuf7902's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-		<p align="center">Thanks for visiting my Github Profile.Best wishes for you.</p>
+		<p align="center"><b>Thanks for visiting my Github Profile<b></p>
