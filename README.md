@@ -57,7 +57,6 @@
 <p align="center"> 
   &emsp; 
 	<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
-   
   &emsp;
 	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
     
