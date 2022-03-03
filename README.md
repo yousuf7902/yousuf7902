@@ -7,13 +7,14 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=yousuf7902&label=Profile%20views&color=0e75b6&style=plastic" alt="yousuf7902" /> 
+	[![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)
 </p>
 
 
 ## :sassy_man:  About me
 - :school: I am a `Student` at International University of Business Agriculture and Technology
 - :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces` and also doing at `Leetcode`,`Atcoder`.
+- :computer: I am a competitive programmer mainly at `Codeforces` and also doing at `Leetcode`, `Atcoder`.
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :nerd_face: Ready to `learn new things`
 
