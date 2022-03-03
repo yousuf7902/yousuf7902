@@ -32,9 +32,9 @@
 ## 👀 My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/yousuf7902"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>&nbsp
-	<a href="https://leetcode.com/yousuf7902/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>&nbsp
-	<a href="https://atcoder.jp/users/yousuf7902"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a>&nbsp
+  <a href="https://codeforces.com/profile/yousuf7902"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>&nbsp&nbsp
+	<a href="https://leetcode.com/yousuf7902/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>&nbsp&nbsp
+	<a href="https://atcoder.jp/users/yousuf7902"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a>&nbsp&nbsp
 	<a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" alt="beecrowd" width='85px'"/></a>
 </p>
 
@@ -52,7 +52,7 @@
   &emsp;
 	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
 </p>
-
+<br>
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
@@ -61,7 +61,7 @@
 	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
     
 </p>
-
+<br>
  ### 👉 Software & Tools
  
 <p align="center">
@@ -73,9 +73,8 @@
 	<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
 	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-    
 </p>
-
+<br>
  ### 👉 IDEs
  
 <p align="center">
@@ -87,7 +86,7 @@
 	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/-Sublime%20Text-%234B4B4Bstyle=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 		 
 </p>
-
+<br>
  ### 👉 Competitive Programming & Problem Solving
  
 <p align="center">
@@ -100,7 +99,7 @@
   &emsp;
     <a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img alt = "beecrowd" src="https://img.shields.io/badge/-Beecrowed-%236A2A86?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
-
+<br>
  ### 👉 Operating Systems
  
 <p align="center">
@@ -117,8 +116,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yousuf7902's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yousuf7902's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&count_private=true&theme=algolia" height="192px"/></a><br>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousuf7902&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yousuf7902" height="192px"/>
   </p>	
@@ -131,3 +129,4 @@
   <br/>
    <a href="https://github.com/yousuf7902"><img alt="yousuf7902's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yousuf7902&custom_title=yousuf7902's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+		<p align="center">Thanks for visiting my Github Profile.Best wishes for you.</p>
