@@ -52,7 +52,9 @@
   &emsp;
 	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
 </p>
+		
 ### 👉 Frontend Development
+		
 <p align="center"> 
   &emsp; 
 	<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
@@ -60,6 +62,7 @@
 	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
     
 </p>
+		
  ### 👉 Software & Tools
  
 <p align="center">
@@ -72,6 +75,7 @@
   &emsp;
 	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
 </p>
+		
  ### 👉 IDEs
  
 <p align="center">
@@ -83,6 +87,7 @@
 	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/-Sublime%20Text-%234B4B4Bstyle=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 		 
 </p>
+		
  ### 👉 Competitive Programming & Problem Solving
  
 <p align="center">
@@ -95,6 +100,7 @@
   &emsp;
     <a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img alt = "beecrowd" src="https://img.shields.io/badge/-Beecrowed-%236A2A86?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
+		
  ### 👉 Operating Systems
  
 <p align="center">
@@ -111,17 +117,18 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yousuf7902's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&count_private=true&theme=algolia" height="192px"/></a><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yousuf7902's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousuf7902&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yousuf7902" height="192px"/>
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yousuf7902&theme=algolia" alt="yousuf7902" /></p>
   </p>	
 <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yousuf7902&theme=algolia" alt="yousuf7902" /></p>
-		
+	
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/yousuf7902"><img alt="yousuf7902's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yousuf7902&custom_title=yousuf7902's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+<br>
 		<p align="center"><b>Thanks for visiting my Github Profile<b></p>
