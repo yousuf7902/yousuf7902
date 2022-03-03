@@ -40,6 +40,18 @@
 </p>
 
 <br>
+		
+## 📊 Github Stats
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yousuf7902's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousuf7902&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yousuf7902" height="192px"/>
+	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yousuf7902&theme=algolia" alt="yousuf7902" /></p>
+  </p>	
+<br>
 
 ## 🛠️ My Skills
 
@@ -117,18 +129,6 @@
 </p>
 
 <br/>
-
-## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yousuf7902's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousuf7902&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yousuf7902" height="192px"/>
-	<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yousuf7902&theme=algolia" alt="yousuf7902" /></p>
-  </p>	
-<br>
 	
 ----
 
