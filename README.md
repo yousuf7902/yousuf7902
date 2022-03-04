@@ -35,17 +35,17 @@
 	<a href="https://atcoder.jp/users/yousuf7902"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a>&nbsp&nbsp&nbsp
 	<a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" alt="beecrowd" width='85px'"/></a>
 	<br>
-	<a href="https://github.com/yousuf7902/Problem_Solving.git" style="center"><h2 align="center">Problem Solving Repositories</h2></a>
+	<a href="https://github.com/yousuf7902/Problem_Solving.git" style="center"><h2 align="center">Problem Solving Repositories</h2></a><br/>
 </p>
-<br/>	
+	
 		
 ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yousuf7902's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&count_private=true&theme=algolia" height="192px"/></a><br/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousuf7902&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yousuf7902" height="192px"/><br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yousuf7902's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&count_private=true&theme=algolia" height="192px"/></a><br/><br/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousuf7902&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yousuf7902" height="192px"/><br/><br/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=yousuf7902&theme=algolia" alt="yousuf7902" />
   </p>	
 <br>
