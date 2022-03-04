@@ -35,9 +35,9 @@
 	<a href="https://atcoder.jp/users/yousuf7902"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a>&nbsp&nbsp&nbsp
 	<a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" alt="beecrowd" width='85px'"/></a>
 	<br>
-	<a href="https://github.com/yousuf7902/Problem_Solving.git" style="center"><h2 align="center">Problem Solving Repositories</h2></a><br/><br/>
+	<a href="https://github.com/yousuf7902/Problem_Solving.git" style="center"><h2 align="center">Problem Solving Repositories</h2></a>
 </p>
-	
+<br/>	
 		
 ## 📊 Github Stats
 
