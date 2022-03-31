@@ -32,7 +32,7 @@
 <p align="center">
   <a href="https://codeforces.com/profile/yousuf7902"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>&nbsp&nbsp&nbsp
 	<a href="https://leetcode.com/yousuf7902/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>&nbsp&nbsp&nbsp
-	<a href="https://www.codechef.com/users/yousuf_7902"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="codechef" width='85px' height='95px'/></a>&nbsp&nbsp&nbsp
+	<a href="https://www.codechef.com/users/yousuf_7902"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="codechef" width='95px'/></a>&nbsp&nbsp&nbsp
 	<a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" alt="beecrowd" width='85px'"/></a>
 	<br>
 	<a href="https://github.com/yousuf7902/Problem_Solving.git" style="center"><h2 align="center">Problem Solving Repositories</h2></a>
