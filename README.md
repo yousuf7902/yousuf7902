@@ -31,9 +31,12 @@
 <br>
 <div align="center">
 	<h3>Codeforces</h3>	
+	<h3>Leetcode</h3>
+	<h3>Codechef</h3>
+	<h3>HackerEarth</h3>
+	<h3>Vjudge</h3>
+	<h3>Beecrowd</h3>
 </div>
-<br>
-
 <p align="center">
   <a href="https://codeforces.com/profile/yousuf7902"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>&nbsp&nbsp&nbsp
 	<a href="https://leetcode.com/yousuf7902/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>&nbsp&nbsp&nbsp
