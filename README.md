@@ -29,12 +29,9 @@
 
 ## 👀 My Competitive Programming Handles
 <br>
-<p align="center">
-	<button type="disc">
-		Codeforces
-	</button>
-
-</p>
+<div align="center">
+	<h3>Codeforces</h3>	
+</div>
 <br>
 
 <p align="center">
@@ -47,7 +44,8 @@
 	<br>
 	<a href="https://github.com/yousuf7902/Problem_Solving.git" style="center"><h2 align="center">Problem Solving Repositories</h2></a>
 </p>
-<br/>	
+<br>
+<br>
 		
 ## 📊 Github Stats
 
