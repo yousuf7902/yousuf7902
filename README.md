@@ -35,6 +35,8 @@
 	<a href="https://www.codechef.com/users/yousuf_7902"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="codechef" width='105px'/></a>&nbsp&nbsp&nbsp
 	<a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" alt="beecrowd" width='85px'"/></a>
 	<br>
+	<a href="https://www.hackerearth.com/@yousuf37"><img src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity_white.png" alt="hackerearth" width='85px'"/></a>
+	<br>
 	<a href="https://github.com/yousuf7902/Problem_Solving.git" style="center"><h2 align="center">Problem Solving Repositories</h2></a>
 </p>
 <br/>	
