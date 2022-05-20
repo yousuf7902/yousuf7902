@@ -42,9 +42,8 @@
 	<a href="https://www.hackerearth.com/@yousuf37"><img src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity_white.png" alt="hackerearth" width='55px'"/></a>&nbsp&nbsp&nbsp
 	<a href="https://vjudge.net/user/yousuf7902#"><img src="https://scontent.fjsr8-1.fna.fbcdn.net/v/t31.18172-8/13925666_1378715125478964_8733879066303844541_o.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHhYZ2yNUeZmVZbZq-Vj4gwHZqZfjhRiIYdmpl-OFGIhi2ImVZzTjsRpnrcVrqZM-OhoaqvUqO0uXnPGOlcdG0s&_nc_ohc=S14aSBKx2ScAX8wemdF&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT-Gbi93tli_TZPCHmGUBizR55L3pJLSeVt8oDexgvOOxQ&oe=62ABCEA3" alt="Vjudge" width='55px'"/></a>&nbsp&nbsp&nbsp
 	<br>
-	<a href="https://github.com/yousuf7902/Problem_Solving.git" style="center"><h2 align="center">Problem Solving Repositories</h2></a>
+	<a href="https://github.com/yousuf7902/Problem_Solving.git" style="center"><h2 align="center">Problem Solving Repositories</h2></a><br>
 </p>
-<br>
 <br>
 		
 ## 📊 Github Stats
