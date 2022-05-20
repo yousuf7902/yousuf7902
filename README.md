@@ -30,7 +30,7 @@
 ## 👀 My Competitive Programming Handles
 <br>
 <div align="center">
-	<h3>Codeforces&nbsp  Leetcode  Codechef  Beecrowd  HackerEarth  Vjudge</h3>	
+	<h3>Codeforces &nbsp&nbsp Leetcode &nbsp&nbsp Codechef &nbsp&nbsp Beecrowd &nbsp&nbsp HackerEarth &nbsp&nbsp Vjudge</h3>	
 </div>
 <p align="center">
   <a href="https://codeforces.com/profile/yousuf7902"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>&nbsp&nbsp&nbsp
