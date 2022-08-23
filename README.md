@@ -49,8 +49,7 @@
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/yousuf_7902?theme=light&font=Karma&ext=contest" />
-https://raw.githubusercontent.com/your-github-username/yousuf7902/main/output/light_card.svg#gh-dark-mode-only
-https://raw.githubusercontent.com/your-github-username/yousuf7902/main/output/light_card.svg
+<img height="280em" src="https://raw.githubusercontent.com/your-github-username/yousuf7902/main/output/light_card.svg#gh-dark-mode-only" />
 </p>
 
 <br>
