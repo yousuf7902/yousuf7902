@@ -44,8 +44,7 @@
 	<br>
 	<a href="https://github.com/yousuf7902/Problem_Solving.git" style="center"><h2 align="center">Problem Solving Repositories</h2></a><br>
 </p>
-<br>
-
+		
 ## &#128200; Competitive Programming Stats
 <p float="left">
 <img height="245em" src="https://leetcard.jacoblin.cool/yousuf_7902?theme=light&font=Karma&ext=contest" />
