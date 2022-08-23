@@ -47,7 +47,7 @@
 		
 ## &#128200; Competitive Programming Stats
 <p float="left">
-<img height="245em" width="200em" src="https://leetcard.jacoblin.cool/yousuf_7902?theme=light&font=Karma&ext=contest" />
+<img height="245em" width="40px" src="https://leetcard.jacoblin.cool/yousuf_7902?theme=light&font=Karma&ext=contest" />
 <img height="250em" src="https://github.com/yousuf7902/CF_Stats/blob/main/output/light_card.svg" />
 </p>
 
