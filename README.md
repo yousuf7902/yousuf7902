@@ -54,6 +54,7 @@
 <br>
 		
 ## 📊 GitHub Profile Stats
+<br>
 		
   <p align="center">
     <img alt="yousuf7902's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&count_private=true&theme=algolia" height="180em"/>	
