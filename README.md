@@ -48,7 +48,7 @@
 ## &#128200; Competitive Programming Stats
 <div align="center">
 <img height="245em" width="480px" src="https://leetcard.jacoblin.cool/yousuf_7902?theme=light&font=Karma&ext=contest" />
-<img height="250em" src="https://raw.githubusercontent.com/yousuf7902/CF_stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img height="250em" src="https://raw.githubusercontent.com/yousuf7902/CF_stats/main/output/light_card.svg" />
 </div>
 
 <br>
@@ -57,10 +57,10 @@
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yousuf7902's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&count_private=true&theme=algolia" height="192px"/></a><br/>	
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousuf7902&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yousuf7902" height="192px"/><br/>
-</div>
+  <p float="left">
+    <img alt="yousuf7902's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&count_private=true&theme=algolia" height="273em"/><br/>	
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousuf7902&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yousuf7902" height="280em"/><br/>
+</p>
   
 <br>
 
