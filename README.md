@@ -47,8 +47,8 @@
 		
 ## &#128200; Competitive Programming Stats
 <div align="center">
-<div><img height="145em"src="https://leetcard.jacoblin.cool/yousuf_7902?theme=light&font=Karma&ext=contest" /></div>
-<div><img height="250em" src="https://raw.githubusercontent.com/yousuf7902/CF_stats/main/output/light_card.svg" /></div>
+<img height="245em"src="https://leetcard.jacoblin.cool/yousuf_7902?theme=light&font=Karma&ext=contest" />
+<img height="250em" src="https://raw.githubusercontent.com/yousuf7902/CF_stats/main/output/light_card.svg" />
 </div>
 
 <br>
@@ -57,8 +57,8 @@
 <br>
 		
   <div align="center">	
-     <img height="295em" width="300px" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&theme=default"/>
-	<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf7902&layout=compact"/><br/>
+	<div><img height="195em" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&theme=default"/></div>
+	<div><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf7902&layout=compact"/><br/></div>
 </div>
   
 <br>
