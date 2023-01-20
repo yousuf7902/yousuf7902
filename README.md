@@ -58,7 +58,7 @@
 		
   <div align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&theme=dark#gh-dark-mode-only"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf7902&layout=compact"/><br/>
+	<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf7902&layout=compact"/><br/>
 </div>
   
 <br>
