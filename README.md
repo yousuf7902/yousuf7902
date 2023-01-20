@@ -57,7 +57,7 @@
 <br>
 		
   <p align="center">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&theme=dark#gh-dark-mode-only"/><br/>
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&theme=dark#gh-dark-mode-only"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf7902&layout=compact"/><br/>
 </p>
   
