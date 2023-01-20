@@ -57,7 +57,7 @@
 <br>
 		
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yousuf_7902&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green"/>	
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yousuf_7902&theme=react&line_height=40&hide=css"/>	
 		https://github-readme-stats.vercel.app/api?username=Yousuf_7902&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yousuf_7902&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yousuf7902" height="180em"/><br/>
 </p>
