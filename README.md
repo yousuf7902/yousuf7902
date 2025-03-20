@@ -76,7 +76,7 @@
 <br>
 		
 ### 👉 Frontend Development
-#### <p align='center'>HTML5, CSS, Tailwind, React </p>
+### <p align='center'>HTML5, CSS, Tailwind, React </p>
 <br>
 		
 <p align="center"> 
