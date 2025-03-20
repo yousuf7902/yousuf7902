@@ -8,10 +8,10 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Student` at International University of Business Agriculture and Technology
+- :school: I have completed my `graduation` from the `International University of Business Agriculture and Technology`
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces` and also doing at `Leetcode`, `Codechef`.
-- :student: I’m currently learning: `Computer Science` , `Software Engineering` and also `Full Stack Learner`. 
+- :student: I’m currently learning: `OOP` , `Software Engineering`, `Database Management` and also `Full Stack Development`. 
 - :nerd_face: Ready to `learn new things`
 
 <br>
@@ -32,7 +32,7 @@
 ## 👀 My Competitive Programming Handles
 <br>
 <div align="center">
-	<h3>Codeforces &nbsp&nbsp Leetcode &nbsp&nbsp Codechef &nbsp&nbsp Beecrowd &nbsp&nbsp HackerEarth &nbsp&nbsp Vjudge</h3>	
+	<h3>Codeforces &nbsp&nbsp Leetcode &nbsp&nbsp Codechef &nbsp&nbsp Beecrowd &nbsp&nbsp Vjudge</h3>	
 </div>
 <p align="center">
   <a href="https://codeforces.com/profile/yousuf7902"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>&nbsp&nbsp&nbsp
