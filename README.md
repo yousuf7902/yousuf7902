@@ -49,24 +49,8 @@
 	<a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" alt="beecrowd" width='85px'"/></a>&nbsp&nbsp&nbsp&nbsp
 	<a href="https://vjudge.net/user/yousuf7902#"><img src="https://tinyurl.com/vjudge-logo" alt="Vjudge" width='55px'"/></a>&nbsp&nbsp&nbsp
 	<br>
-	<a href="https://github.com/yousuf7902/Problem_Solving.git" style="center"><h2 align="center">Problem Solving Repositories</h2></a><br>
+	<a href="https://github.com/yousuf7902/Problem_Solving.git" style="center"><h3 align="center">Problem Solving Repositories</h2></a><br>
 </p>
-		
-## &#128200; Competitive Programming Stats
-<div align="center">
-<img height="245em" width="480px" src="https://leetcard.jacoblin.cool/yousuf_7902?theme=light&font=Karma&ext=contest" />
-<img height="250em" src="https://raw.githubusercontent.com/yousuf7902/CF_stats/main/output/light_card.svg" />
-</div>
-
-<br>
-		
-## 📊 GitHub Profile Stats
-<br>	
-  <div align="center">	
-	<img height="195em" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&theme=default"/>
-	<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf7902&layout=compact"/><br/>
-  </div>
-<br>
 
 ## 🛠️ My Skills
 
@@ -155,8 +139,21 @@
 </a>	  
 </p>
 <br/>
-	
-----
+		
+## 📊 GitHub Profile Stats
+<br>	
+  <div align="center">	
+	<img height="195em" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&theme=default"/>
+	<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf7902&layout=compact"/><br/>
+  </div>
+<br>
+
+## &#128200; Competitive Programming Stats
+<div align="center">
+<img height="245em" width="480px" src="https://leetcard.jacoblin.cool/yousuf_7902?theme=light&font=Karma&ext=contest" />
+<img height="250em" src="https://raw.githubusercontent.com/yousuf7902/CF_stats/main/output/light_card.svg" />
+</div>
+<br>
 
 ### ⚡ Recent GitHub Activity
 <br/>
