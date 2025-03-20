@@ -55,7 +55,7 @@
 ## 📊 GitHub Profile Stats
 <br>
 		
-  <div align="flex center">	
+  <div style="display: flex; justify-content: center; gap: 10px;">	
 	<img height="195em" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&theme=default"/>
 	<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf7902&layout=compact"/><br/>
   </div>
