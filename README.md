@@ -110,22 +110,11 @@
 	 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   &emsp;
 	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/></a>
+  &emsp;
+	<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/></a>
 </p>
 <br>	
-		
- ### 👉 IDEs
- 
-<p align="center">
-  &emsp;
-	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a> 
-  &emsp;
-	<a href="#"><img alt="Codeblocks" src="https://img.shields.io/badge/-Codeblocks-%23F2383C?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-  &emsp;
-	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/-Sublime%20Text-%234B4B4Bstyle=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-		 
-</p>
-<br>	
-		
+				
  ### 👉 Competitive Programming & Problem Solving
  
 <p align="center">
@@ -144,9 +133,10 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+</a>	  
 </p>
 
 <br/>
