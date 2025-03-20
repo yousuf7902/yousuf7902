@@ -70,7 +70,7 @@
   &emsp;
 	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
   &emsp; 
-	<a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-%232370ED.svg?style=plastic&logo=csharp&logoColor=white"></a>
+	<a href="#"><img alt="C#" src="https://img.shields.io/badge/C#%23-%232370ED.svg?style=plastic&logo=csharp&logoColor=white"></a>
 </p>
 <br>
 
