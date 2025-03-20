@@ -53,13 +53,11 @@
 <br>
 		
 ## 📊 GitHub Profile Stats
-<br>
-		
+<br>	
   <div align="center">	
 	<img height="195em" src="https://github-readme-stats.vercel.app/api?username=yousuf7902&show_icons=true&theme=default"/>
 	<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf7902&layout=compact"/><br/>
   </div>
-  
 <br>
 
 ## 🛠️ My Skills
@@ -67,12 +65,12 @@
 ### 👉 Programming languages
 
 <p align="center"> 
-  &emsp; 
-	<a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"></a>
   &emsp;
 	<a href="#"> <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></a>
   &emsp;
 	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
+  &emsp; 
+	<a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-%232370ED.svg?style=plastic&logo=csharp&logoColor=white"></a>
 </p>
 <br>
 		
