@@ -63,7 +63,7 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-#### <p align="center"> C++, C#, Javascript </p>
+#### C++, C#, Javascript
 
 <p align="center"> 
  &emsp; 
@@ -76,6 +76,7 @@
 <br>
 		
 ### 👉 Frontend Development
+#### HTML5, CSS, Tailwind, React
 		
 <p align="center"> 
   &emsp; 
@@ -90,6 +91,8 @@
 <br>
  
  ### 👉 Backend Development
+ #### nodeJs, expressJs, nestJs, mongoDb, mysql
+ 
  <p align="center"> 
    &emsp; 
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
@@ -97,10 +100,15 @@
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
    &emsp;
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a>
+   &emsp;
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+   &emsp;
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 <br>
 	
  ### 👉 Software & Tools
+ #### Git, Github, Postman, VsCode, VisualStudio
  
 <p align="center">
   &emsp;
@@ -117,20 +125,18 @@
 <br>	
 				
  ### 👉 Competitive Programming & Problem Solving
+ #### Codeforces, Leetcode
  
 <p align="center">
   &emsp;
     <a href="https://codeforces.com/profile/yousuf7902"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
     <a href="https://leetcode.com/yousuf7902/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="https://atcoder.jp/users/yousuf7902"><img alt = "Atcoder" src="https://img.shields.io/badge/-Atcoder-%23222222?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="https://www.beecrowd.com.br/judge/en/profile/553291"><img alt = "beecrowd" src="https://img.shields.io/badge/-Beecrowed-%236A2A86?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 <br>
 		
  ### 👉 Operating Systems
+ ####  Ubuntu ,Windows
  
 <p align="center">
   &emsp;
