@@ -63,7 +63,7 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-#### C++, C#, Javascript
+#### <p align='center'>C++, C#, Javascript </p>
 
 <p align="center"> 
  &emsp; 
@@ -76,7 +76,7 @@
 <br>
 		
 ### 👉 Frontend Development
-### <p align='center'>HTML5, CSS, Tailwind, React </p>
+### <p align='center'>HTML5, Css, Tailwind, React </p>
 <br>
 		
 <p align="center"> 
@@ -92,7 +92,7 @@
 <br>
  
  ### 👉 Backend Development
- #### NodeJs, ExpressJs, NestJs, MongoDb, Mysql
+ #### <p align='center'>NodeJs, ExpressJs, NestJs, MongoDb, Mysql </p>
  
  <p align="center"> 
    &emsp; 
@@ -109,7 +109,7 @@
 <br>
 	
  ### 👉 Software & Tools
- #### Git, Github, Postman, VsCode, VisualStudio
+ #### <p align='center'>Git, Github, Postman, VsCode, VisualStudio </p>
  
 <p align="center">
   &emsp;
@@ -126,7 +126,7 @@
 <br>	
 				
  ### 👉 Competitive Programming & Problem Solving
- #### Codeforces, Leetcode
+ #### <p align='center'> Codeforces, Leetcode </p>
  
 <p align="center">
   &emsp;
@@ -137,7 +137,7 @@
 <br>
 		
  ### 👉 Operating Systems
- ####  Ubuntu ,Windows
+ #### <p align='center'>Ubuntu ,Windows </p>
  
 <p align="center">
   &emsp;
@@ -146,7 +146,6 @@
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </a>	  
 </p>
-
 <br/>
 	
 ----
