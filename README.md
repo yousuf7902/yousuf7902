@@ -63,7 +63,7 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-#### C++, C#, Javascript 
+#### <p align="center"> C++, C#, Javascript </p>
 
 <p align="center"> 
  &emsp; 
