@@ -141,7 +141,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <img href="https://github-readme-activity-graph.vercel.app/graph?			username=yousuf7902&bg_color=241f31&color=26a269&line=26a269&point=deddda&area=true&hide_border=true" />
+   <a href="https://github-readme-activity-graph.vercel.app/graph?			username=yousuf7902&bg_color=241f31&color=26a269&line=26a269&point=deddda&area=true&hide_border=true" /></a>
   <br/>
   <br>
 		<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Thanks for visiting my Github Profile. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2><br>
