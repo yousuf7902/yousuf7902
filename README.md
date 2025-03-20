@@ -76,7 +76,8 @@
 <br>
 		
 ### 👉 Frontend Development
-#### HTML5, CSS, Tailwind, React
+#### <p align='center>HTML5, CSS, Tailwind, React </p>
+<br>
 		
 <p align="center"> 
   &emsp; 
@@ -91,7 +92,7 @@
 <br>
  
  ### 👉 Backend Development
- #### nodeJs, expressJs, nestJs, mongoDb, mysql
+ #### NodeJs, ExpressJs, NestJs, MongoDb, Mysql
  
  <p align="center"> 
    &emsp; 
